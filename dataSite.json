@@ -11,6 +11,11 @@
     "YT": "https://www.youtube.com/channel/UCbZRksrbS8qcN6fzv4Y3y-g/",
     "Tiphs": "https://www.tiphs-art.com/"
   },
+  "stories": {
+    "titre" : "Bibliothèque augmentée",
+    "argu":"Retrouvez dans cette section des nouvelles gratuites agrémentées conseillée pour une meilleure immersion."
+  },
+
   "univers": [
     {
       "name": "Mémoria",
