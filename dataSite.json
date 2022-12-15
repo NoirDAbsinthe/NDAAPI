@@ -14,7 +14,7 @@
   },
   "team": {
     "in": "Absinthia",
-    "statuts": "/.pdf",
+    "statuts": "/Statuts.pdf",
     "pv": ["/pv1.pdf", "/pv2.pdf"],
     "doc": ["/doc1.pdf", "/doc2.pdf", "/doc3.pdf"],
     "replay": [
